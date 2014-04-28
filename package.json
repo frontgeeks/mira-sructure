@@ -1,13 +1,14 @@
 {
   "name": "mira-structure",
-  "version": "0.0.14",
-  "description": "mira-structure",
+  "version": "0.0.2",
+  "description": "Fast app structure creator",
   "main": "index.js",
   "dependencies": {
     "ncp": "latest"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git://github.com/frontgeeks/mira-structure.git"
   },
   "keywords": [
     "mira-structure"
@@ -16,5 +17,6 @@
     "node": ">= 0.8.0"
   },
   "author": "dilan.mckey <dilan.mckey@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "readmeFilename": "README.md"
 }
