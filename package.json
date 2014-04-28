@@ -1,6 +1,6 @@
 {
   "name": "mira-structure",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Fast app structure creator",
   "main": "index.js",
   "dependencies": {
