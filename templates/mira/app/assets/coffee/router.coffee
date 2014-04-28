@@ -7,4 +7,4 @@ define ['marionette'],  (Marionette) ->
       console.log 'init:: Router -> AppRouter'
 
     appRoutes:
-      " "                   : 'index'
+      ""                   : 'index'
