@@ -1,0 +1,16 @@
+{
+  "name": "mira",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-requirejs": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-open": "latest"
+  },
+  "scripts": {
+    "postinstall" : "node_modules/.bin/bower install"
+  }
+}

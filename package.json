@@ -1,0 +1,20 @@
+{
+  "name": "mira-structure",
+  "version": "0.0.14",
+  "description": "mira-structure",
+  "main": "index.js",
+  "dependencies": {
+    "ncp": "latest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "mira-structure"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "author": "dilan.mckey <dilan.mckey@gmail.com>",
+  "license": "MIT"
+}

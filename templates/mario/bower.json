@@ -1,0 +1,23 @@
+{
+  "name": "mira",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.11.0",
+    "backbone-amd": "latest",
+    "underscore-amd": "latest",
+    "marionette": "latest",
+    "backbone.wreqr": "latest",
+    "backbone.eventbinder": "latest",
+    "backbone.babysitter": "latest",
+    "text": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "public/components",
+    "test",
+    "tests"
+  ]
+}
