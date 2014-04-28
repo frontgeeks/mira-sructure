@@ -7,4 +7,4 @@ define ['marionette'],  (Marionette) ->
       console.log 'init:: Router -> AppRouter'
 
     appRoutes:
-      "mira-structure/mira/public/index.html"                   : 'index'
+      " "                   : 'index'
