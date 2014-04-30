@@ -57,8 +57,6 @@ module.exports = function(grunt) {
 
 
   grunt.registerTask('default', ['sass', 'coffee']);
-  grunt.registerTask('server',[
-    'connect'
-  ]);
+  grunt.registerTask('server',['sass', 'coffee','connect']);
   grunt.registerTask('work', ['coffee','sass', 'watch']);
 };

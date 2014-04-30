@@ -1,10 +1,10 @@
 {
   "name": "mira-structure",
-  "version": "0.0.8",
+  "version": "0.0.15",
   "description": "Fast app structure creator",
   "main": "index.js",
   "dependencies": {
-    "ncp": "latest"
+    "fgen": "latest"
   },
   "repository": {
     "type": "git",

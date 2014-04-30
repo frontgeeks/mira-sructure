@@ -8,3 +8,5 @@ logo.png
 node_modules
 .idea
 mira
+.DS_Store
+testapp

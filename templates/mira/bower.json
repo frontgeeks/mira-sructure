@@ -11,7 +11,8 @@
     "backbone.wreqr": "latest",
     "backbone.eventbinder": "latest",
     "backbone.babysitter": "latest",
-    "text": "latest"
+    "text": "latest",
+    "mira-style": "latest"
   },
   "ignore": [
     "**/.*",

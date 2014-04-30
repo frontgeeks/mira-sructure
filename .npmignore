@@ -6,3 +6,5 @@ Makefile
 logo.png
 .idea
 node_modules
+.DS_Store
+testapp
