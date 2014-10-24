@@ -4,7 +4,9 @@
   "description": "Fast app structure creator",
   "main": "index.js",
   "dependencies": {
-    "fgen": "latest"
+    "fgen": "latest",
+    "ncp": "latest"
+
   },
   "repository": {
     "type": "git",
